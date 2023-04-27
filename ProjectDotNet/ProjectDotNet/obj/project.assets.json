@@ -2008,11 +2008,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jerem\\OneDrive\\Desktop\\DotNetProject Group 9\\ProjectDotNet\\ProjectDotNet\\ProjectDotNet\\ProjectDotNet.csproj",
+      "projectUniqueName": "C:\\Users\\jerem\\OneDrive\\Desktop\\Git Local Repo\\ProjectDotNet\\ProjectDotNet\\ProjectDotNet.csproj",
       "projectName": "ProjectDotNet",
-      "projectPath": "C:\\Users\\jerem\\OneDrive\\Desktop\\DotNetProject Group 9\\ProjectDotNet\\ProjectDotNet\\ProjectDotNet\\ProjectDotNet.csproj",
+      "projectPath": "C:\\Users\\jerem\\OneDrive\\Desktop\\Git Local Repo\\ProjectDotNet\\ProjectDotNet\\ProjectDotNet.csproj",
       "packagesPath": "C:\\Users\\jerem\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jerem\\OneDrive\\Desktop\\DotNetProject Group 9\\ProjectDotNet\\ProjectDotNet\\ProjectDotNet\\obj\\",
+      "outputPath": "C:\\Users\\jerem\\OneDrive\\Desktop\\Git Local Repo\\ProjectDotNet\\ProjectDotNet\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jerem\\AppData\\Roaming\\NuGet\\NuGet.Config",

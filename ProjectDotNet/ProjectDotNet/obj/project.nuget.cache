@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IKEf9nOCWv8t15NafjPwPV/oSXilluS6lhGn1C5Fu5yaOoekIe5WIbwjFITrKEY5hxq6SgCSSMnLA581956LoQ==",
+  "dgSpecHash": "GgH8y27VOtEhfiuS+oKodckZAuFlyAZb8xeYlG11OFYreKlfZOplFEBaIhdUVCGPJRIkdU32t803tvgyn38KiQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jerem\\OneDrive\\Desktop\\DotNetProject Group 9\\ProjectDotNet\\ProjectDotNet\\ProjectDotNet\\ProjectDotNet.csproj",
+  "projectFilePath": "C:\\Users\\jerem\\OneDrive\\Desktop\\Git Local Repo\\ProjectDotNet\\ProjectDotNet\\ProjectDotNet.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jerem\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\jerem\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
