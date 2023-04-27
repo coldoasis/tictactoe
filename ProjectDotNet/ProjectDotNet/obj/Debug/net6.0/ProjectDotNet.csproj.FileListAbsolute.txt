@@ -1,0 +1,726 @@
+C:\Users\jerem\source\repos\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\jerem\source\repos\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\appsettings.json
+C:\Users\jerem\source\repos\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\ProjectDotNet.staticwebassets.runtime.json
+C:\Users\jerem\source\repos\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\ProjectDotNet.exe
+C:\Users\jerem\source\repos\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\ProjectDotNet.deps.json
+C:\Users\jerem\source\repos\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\ProjectDotNet.runtimeconfig.json
+C:\Users\jerem\source\repos\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\ProjectDotNet.dll
+C:\Users\jerem\source\repos\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\ProjectDotNet.pdb
+C:\Users\jerem\source\repos\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\jerem\source\repos\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\jerem\source\repos\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jerem\source\repos\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\jerem\source\repos\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\jerem\source\repos\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\jerem\source\repos\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\jerem\source\repos\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jerem\source\repos\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\jerem\source\repos\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\jerem\source\repos\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\jerem\source\repos\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jerem\source\repos\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\jerem\source\repos\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jerem\source\repos\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\jerem\source\repos\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\jerem\source\repos\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jerem\source\repos\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\jerem\source\repos\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\jerem\source\repos\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jerem\source\repos\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\jerem\source\repos\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\jerem\source\repos\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\jerem\source\repos\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\jerem\source\repos\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jerem\source\repos\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jerem\source\repos\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jerem\source\repos\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jerem\source\repos\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jerem\source\repos\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\jerem\source\repos\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\jerem\source\repos\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\jerem\source\repos\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jerem\source\repos\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\jerem\source\repos\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.csproj.AssemblyReference.cache
+C:\Users\jerem\source\repos\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerem\source\repos\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.AssemblyInfoInputs.cache
+C:\Users\jerem\source\repos\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.AssemblyInfo.cs
+C:\Users\jerem\source\repos\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.csproj.CoreCompileInputs.cache
+C:\Users\jerem\source\repos\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jerem\source\repos\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.RazorAssemblyInfo.cache
+C:\Users\jerem\source\repos\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.RazorAssemblyInfo.cs
+C:\Users\jerem\source\repos\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets\msbuild.ProjectDotNet.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jerem\source\repos\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets\msbuild.build.ProjectDotNet.props
+C:\Users\jerem\source\repos\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProjectDotNet.props
+C:\Users\jerem\source\repos\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProjectDotNet.props
+C:\Users\jerem\source\repos\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\jerem\source\repos\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\jerem\source\repos\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\jerem\source\repos\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\jerem\source\repos\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\scopedcss\bundle\ProjectDotNet.styles.css
+C:\Users\jerem\source\repos\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\scopedcss\projectbundle\ProjectDotNet.bundle.scp.css
+C:\Users\jerem\source\repos\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.csproj.CopyComplete
+C:\Users\jerem\source\repos\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.dll
+C:\Users\jerem\source\repos\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\refint\ProjectDotNet.dll
+C:\Users\jerem\source\repos\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.pdb
+C:\Users\jerem\source\repos\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.genruntimeconfig.cache
+C:\Users\jerem\source\repos\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ref\ProjectDotNet.dll
+C:\Users\tonyl\Downloads\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\tonyl\Downloads\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\appsettings.json
+C:\Users\tonyl\Downloads\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\ProjectDotNet.staticwebassets.runtime.json
+C:\Users\tonyl\Downloads\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\ProjectDotNet.exe
+C:\Users\tonyl\Downloads\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\ProjectDotNet.deps.json
+C:\Users\tonyl\Downloads\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\ProjectDotNet.runtimeconfig.json
+C:\Users\tonyl\Downloads\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\ProjectDotNet.dll
+C:\Users\tonyl\Downloads\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\ProjectDotNet.pdb
+C:\Users\tonyl\Downloads\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\tonyl\Downloads\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\tonyl\Downloads\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tonyl\Downloads\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\tonyl\Downloads\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\tonyl\Downloads\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\tonyl\Downloads\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\tonyl\Downloads\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tonyl\Downloads\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\tonyl\Downloads\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tonyl\Downloads\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tonyl\Downloads\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tonyl\Downloads\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\tonyl\Downloads\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tonyl\Downloads\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\tonyl\Downloads\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\tonyl\Downloads\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tonyl\Downloads\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\tonyl\Downloads\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\tonyl\Downloads\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tonyl\Downloads\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\tonyl\Downloads\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\tonyl\Downloads\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\tonyl\Downloads\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\tonyl\Downloads\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tonyl\Downloads\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tonyl\Downloads\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tonyl\Downloads\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tonyl\Downloads\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tonyl\Downloads\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\tonyl\Downloads\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\tonyl\Downloads\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\tonyl\Downloads\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tonyl\Downloads\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\tonyl\Downloads\ProjectDotNet\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.csproj.AssemblyReference.cache
+C:\Users\tonyl\Downloads\ProjectDotNet\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tonyl\Downloads\ProjectDotNet\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.AssemblyInfoInputs.cache
+C:\Users\tonyl\Downloads\ProjectDotNet\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.AssemblyInfo.cs
+C:\Users\tonyl\Downloads\ProjectDotNet\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.csproj.CoreCompileInputs.cache
+C:\Users\tonyl\Downloads\ProjectDotNet\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tonyl\Downloads\ProjectDotNet\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.RazorAssemblyInfo.cache
+C:\Users\tonyl\Downloads\ProjectDotNet\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.RazorAssemblyInfo.cs
+C:\Users\tonyl\Downloads\ProjectDotNet\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets\msbuild.ProjectDotNet.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\tonyl\Downloads\ProjectDotNet\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets\msbuild.build.ProjectDotNet.props
+C:\Users\tonyl\Downloads\ProjectDotNet\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProjectDotNet.props
+C:\Users\tonyl\Downloads\ProjectDotNet\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProjectDotNet.props
+C:\Users\tonyl\Downloads\ProjectDotNet\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\tonyl\Downloads\ProjectDotNet\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\tonyl\Downloads\ProjectDotNet\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\tonyl\Downloads\ProjectDotNet\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\tonyl\Downloads\ProjectDotNet\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\scopedcss\bundle\ProjectDotNet.styles.css
+C:\Users\tonyl\Downloads\ProjectDotNet\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\scopedcss\projectbundle\ProjectDotNet.bundle.scp.css
+C:\Users\tonyl\Downloads\ProjectDotNet\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.csproj.CopyComplete
+C:\Users\tonyl\Downloads\ProjectDotNet\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.dll
+C:\Users\tonyl\Downloads\ProjectDotNet\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\refint\ProjectDotNet.dll
+C:\Users\tonyl\Downloads\ProjectDotNet\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.pdb
+C:\Users\tonyl\Downloads\ProjectDotNet\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.genruntimeconfig.cache
+C:\Users\tonyl\Downloads\ProjectDotNet\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ref\ProjectDotNet.dll
+C:\Users\jerem\source\repos\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\jerem\source\repos\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\appsettings.json
+C:\Users\jerem\source\repos\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\ProjectDotNet.staticwebassets.runtime.json
+C:\Users\jerem\source\repos\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\ProjectDotNet.exe
+C:\Users\jerem\source\repos\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\ProjectDotNet.deps.json
+C:\Users\jerem\source\repos\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\ProjectDotNet.runtimeconfig.json
+C:\Users\jerem\source\repos\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\ProjectDotNet.dll
+C:\Users\jerem\source\repos\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\ProjectDotNet.pdb
+C:\Users\jerem\source\repos\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\jerem\source\repos\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\jerem\source\repos\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jerem\source\repos\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\jerem\source\repos\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\jerem\source\repos\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\jerem\source\repos\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\jerem\source\repos\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jerem\source\repos\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\jerem\source\repos\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\jerem\source\repos\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\jerem\source\repos\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jerem\source\repos\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\jerem\source\repos\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jerem\source\repos\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\jerem\source\repos\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\jerem\source\repos\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jerem\source\repos\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\jerem\source\repos\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\jerem\source\repos\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jerem\source\repos\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\jerem\source\repos\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\jerem\source\repos\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\jerem\source\repos\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\jerem\source\repos\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jerem\source\repos\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jerem\source\repos\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jerem\source\repos\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jerem\source\repos\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jerem\source\repos\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\jerem\source\repos\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\jerem\source\repos\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\jerem\source\repos\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jerem\source\repos\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\jerem\source\repos\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.csproj.AssemblyReference.cache
+C:\Users\jerem\source\repos\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerem\source\repos\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.AssemblyInfoInputs.cache
+C:\Users\jerem\source\repos\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.AssemblyInfo.cs
+C:\Users\jerem\source\repos\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.csproj.CoreCompileInputs.cache
+C:\Users\jerem\source\repos\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jerem\source\repos\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.RazorAssemblyInfo.cache
+C:\Users\jerem\source\repos\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.RazorAssemblyInfo.cs
+C:\Users\jerem\source\repos\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets\msbuild.ProjectDotNet.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jerem\source\repos\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets\msbuild.build.ProjectDotNet.props
+C:\Users\jerem\source\repos\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProjectDotNet.props
+C:\Users\jerem\source\repos\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProjectDotNet.props
+C:\Users\jerem\source\repos\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\jerem\source\repos\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\jerem\source\repos\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\jerem\source\repos\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\jerem\source\repos\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\scopedcss\bundle\ProjectDotNet.styles.css
+C:\Users\jerem\source\repos\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\scopedcss\projectbundle\ProjectDotNet.bundle.scp.css
+C:\Users\jerem\source\repos\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.csproj.CopyComplete
+C:\Users\jerem\source\repos\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.dll
+C:\Users\jerem\source\repos\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\refint\ProjectDotNet.dll
+C:\Users\jerem\source\repos\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.pdb
+C:\Users\jerem\source\repos\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.genruntimeconfig.cache
+C:\Users\jerem\source\repos\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ref\ProjectDotNet.dll
+C:\Users\tonyl\Downloads\ProjectDotNetv4\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\tonyl\Downloads\ProjectDotNetv4\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\appsettings.json
+C:\Users\tonyl\Downloads\ProjectDotNetv4\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\ProjectDotNet.staticwebassets.runtime.json
+C:\Users\tonyl\Downloads\ProjectDotNetv4\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\ProjectDotNet.exe
+C:\Users\tonyl\Downloads\ProjectDotNetv4\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\ProjectDotNet.deps.json
+C:\Users\tonyl\Downloads\ProjectDotNetv4\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\ProjectDotNet.runtimeconfig.json
+C:\Users\tonyl\Downloads\ProjectDotNetv4\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\ProjectDotNet.dll
+C:\Users\tonyl\Downloads\ProjectDotNetv4\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\ProjectDotNet.pdb
+C:\Users\tonyl\Downloads\ProjectDotNetv4\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\tonyl\Downloads\ProjectDotNetv4\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\tonyl\Downloads\ProjectDotNetv4\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tonyl\Downloads\ProjectDotNetv4\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\tonyl\Downloads\ProjectDotNetv4\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\tonyl\Downloads\ProjectDotNetv4\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\tonyl\Downloads\ProjectDotNetv4\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\tonyl\Downloads\ProjectDotNetv4\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tonyl\Downloads\ProjectDotNetv4\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\tonyl\Downloads\ProjectDotNetv4\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tonyl\Downloads\ProjectDotNetv4\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tonyl\Downloads\ProjectDotNetv4\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tonyl\Downloads\ProjectDotNetv4\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\tonyl\Downloads\ProjectDotNetv4\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tonyl\Downloads\ProjectDotNetv4\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\tonyl\Downloads\ProjectDotNetv4\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\tonyl\Downloads\ProjectDotNetv4\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tonyl\Downloads\ProjectDotNetv4\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\tonyl\Downloads\ProjectDotNetv4\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\tonyl\Downloads\ProjectDotNetv4\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tonyl\Downloads\ProjectDotNetv4\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\tonyl\Downloads\ProjectDotNetv4\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\tonyl\Downloads\ProjectDotNetv4\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\tonyl\Downloads\ProjectDotNetv4\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\tonyl\Downloads\ProjectDotNetv4\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tonyl\Downloads\ProjectDotNetv4\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tonyl\Downloads\ProjectDotNetv4\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tonyl\Downloads\ProjectDotNetv4\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tonyl\Downloads\ProjectDotNetv4\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tonyl\Downloads\ProjectDotNetv4\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\tonyl\Downloads\ProjectDotNetv4\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\tonyl\Downloads\ProjectDotNetv4\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\tonyl\Downloads\ProjectDotNetv4\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tonyl\Downloads\ProjectDotNetv4\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\tonyl\Downloads\ProjectDotNetv4\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.csproj.AssemblyReference.cache
+C:\Users\tonyl\Downloads\ProjectDotNetv4\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tonyl\Downloads\ProjectDotNetv4\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.AssemblyInfoInputs.cache
+C:\Users\tonyl\Downloads\ProjectDotNetv4\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.AssemblyInfo.cs
+C:\Users\tonyl\Downloads\ProjectDotNetv4\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.csproj.CoreCompileInputs.cache
+C:\Users\tonyl\Downloads\ProjectDotNetv4\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tonyl\Downloads\ProjectDotNetv4\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.RazorAssemblyInfo.cache
+C:\Users\tonyl\Downloads\ProjectDotNetv4\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.RazorAssemblyInfo.cs
+C:\Users\tonyl\Downloads\ProjectDotNetv4\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets\msbuild.ProjectDotNet.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\tonyl\Downloads\ProjectDotNetv4\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets\msbuild.build.ProjectDotNet.props
+C:\Users\tonyl\Downloads\ProjectDotNetv4\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProjectDotNet.props
+C:\Users\tonyl\Downloads\ProjectDotNetv4\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProjectDotNet.props
+C:\Users\tonyl\Downloads\ProjectDotNetv4\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\tonyl\Downloads\ProjectDotNetv4\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\tonyl\Downloads\ProjectDotNetv4\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\tonyl\Downloads\ProjectDotNetv4\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\tonyl\Downloads\ProjectDotNetv4\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\scopedcss\bundle\ProjectDotNet.styles.css
+C:\Users\tonyl\Downloads\ProjectDotNetv4\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\scopedcss\projectbundle\ProjectDotNet.bundle.scp.css
+C:\Users\tonyl\Downloads\ProjectDotNetv4\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.csproj.CopyComplete
+C:\Users\tonyl\Downloads\ProjectDotNetv4\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.dll
+C:\Users\tonyl\Downloads\ProjectDotNetv4\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\refint\ProjectDotNet.dll
+C:\Users\tonyl\Downloads\ProjectDotNetv4\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.pdb
+C:\Users\tonyl\Downloads\ProjectDotNetv4\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.genruntimeconfig.cache
+C:\Users\tonyl\Downloads\ProjectDotNetv4\ProjectDotNetv3\ProjectDotNetv3\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ref\ProjectDotNet.dll
+C:\Users\jerem\source\repos\ProjectDotNetv5\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\jerem\source\repos\ProjectDotNetv5\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\appsettings.json
+C:\Users\jerem\source\repos\ProjectDotNetv5\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\ProjectDotNet.staticwebassets.runtime.json
+C:\Users\jerem\source\repos\ProjectDotNetv5\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\ProjectDotNet.exe
+C:\Users\jerem\source\repos\ProjectDotNetv5\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\ProjectDotNet.deps.json
+C:\Users\jerem\source\repos\ProjectDotNetv5\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\ProjectDotNet.runtimeconfig.json
+C:\Users\jerem\source\repos\ProjectDotNetv5\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\ProjectDotNet.dll
+C:\Users\jerem\source\repos\ProjectDotNetv5\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\ProjectDotNet.pdb
+C:\Users\jerem\source\repos\ProjectDotNetv5\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\jerem\source\repos\ProjectDotNetv5\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\jerem\source\repos\ProjectDotNetv5\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jerem\source\repos\ProjectDotNetv5\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\jerem\source\repos\ProjectDotNetv5\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\jerem\source\repos\ProjectDotNetv5\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\jerem\source\repos\ProjectDotNetv5\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\jerem\source\repos\ProjectDotNetv5\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jerem\source\repos\ProjectDotNetv5\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\jerem\source\repos\ProjectDotNetv5\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\jerem\source\repos\ProjectDotNetv5\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\jerem\source\repos\ProjectDotNetv5\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jerem\source\repos\ProjectDotNetv5\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\jerem\source\repos\ProjectDotNetv5\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jerem\source\repos\ProjectDotNetv5\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\jerem\source\repos\ProjectDotNetv5\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\jerem\source\repos\ProjectDotNetv5\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jerem\source\repos\ProjectDotNetv5\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\jerem\source\repos\ProjectDotNetv5\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\jerem\source\repos\ProjectDotNetv5\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jerem\source\repos\ProjectDotNetv5\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\jerem\source\repos\ProjectDotNetv5\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\jerem\source\repos\ProjectDotNetv5\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\jerem\source\repos\ProjectDotNetv5\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\jerem\source\repos\ProjectDotNetv5\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jerem\source\repos\ProjectDotNetv5\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jerem\source\repos\ProjectDotNetv5\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jerem\source\repos\ProjectDotNetv5\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jerem\source\repos\ProjectDotNetv5\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jerem\source\repos\ProjectDotNetv5\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\jerem\source\repos\ProjectDotNetv5\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\jerem\source\repos\ProjectDotNetv5\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\jerem\source\repos\ProjectDotNetv5\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jerem\source\repos\ProjectDotNetv5\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\jerem\source\repos\ProjectDotNetv5\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.csproj.AssemblyReference.cache
+C:\Users\jerem\source\repos\ProjectDotNetv5\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerem\source\repos\ProjectDotNetv5\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.AssemblyInfoInputs.cache
+C:\Users\jerem\source\repos\ProjectDotNetv5\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.AssemblyInfo.cs
+C:\Users\jerem\source\repos\ProjectDotNetv5\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.csproj.CoreCompileInputs.cache
+C:\Users\jerem\source\repos\ProjectDotNetv5\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jerem\source\repos\ProjectDotNetv5\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.RazorAssemblyInfo.cache
+C:\Users\jerem\source\repos\ProjectDotNetv5\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.RazorAssemblyInfo.cs
+C:\Users\jerem\source\repos\ProjectDotNetv5\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets\msbuild.ProjectDotNet.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jerem\source\repos\ProjectDotNetv5\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets\msbuild.build.ProjectDotNet.props
+C:\Users\jerem\source\repos\ProjectDotNetv5\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProjectDotNet.props
+C:\Users\jerem\source\repos\ProjectDotNetv5\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProjectDotNet.props
+C:\Users\jerem\source\repos\ProjectDotNetv5\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\jerem\source\repos\ProjectDotNetv5\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\jerem\source\repos\ProjectDotNetv5\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\jerem\source\repos\ProjectDotNetv5\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\jerem\source\repos\ProjectDotNetv5\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\scopedcss\bundle\ProjectDotNet.styles.css
+C:\Users\jerem\source\repos\ProjectDotNetv5\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\scopedcss\projectbundle\ProjectDotNet.bundle.scp.css
+C:\Users\jerem\source\repos\ProjectDotNetv5\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.csproj.CopyComplete
+C:\Users\jerem\source\repos\ProjectDotNetv5\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.dll
+C:\Users\jerem\source\repos\ProjectDotNetv5\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\refint\ProjectDotNet.dll
+C:\Users\jerem\source\repos\ProjectDotNetv5\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.pdb
+C:\Users\jerem\source\repos\ProjectDotNetv5\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.genruntimeconfig.cache
+C:\Users\jerem\source\repos\ProjectDotNetv5\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ref\ProjectDotNet.dll
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\appsettings.Development.json
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\appsettings.json
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\ProjectDotNet.staticwebassets.runtime.json
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\ProjectDotNet.exe
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\ProjectDotNet.deps.json
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\ProjectDotNet.runtimeconfig.json
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\ProjectDotNet.dll
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\ProjectDotNet.pdb
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Azure.Core.dll
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Azure.Identity.dll
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Memory.Data.dll
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.csproj.AssemblyReference.cache
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.GeneratedMSBuildEditorConfig.editorconfig
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.AssemblyInfoInputs.cache
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.AssemblyInfo.cs
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.csproj.CoreCompileInputs.cache
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.MvcApplicationPartsAssemblyInfo.cache
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.RazorAssemblyInfo.cache
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.RazorAssemblyInfo.cs
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets\msbuild.ProjectDotNet.Microsoft.AspNetCore.StaticWebAssets.props
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets\msbuild.build.ProjectDotNet.props
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProjectDotNet.props
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProjectDotNet.props
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets.pack.json
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets.build.json
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets.development.json
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\scopedcss\bundle\ProjectDotNet.styles.css
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\scopedcss\projectbundle\ProjectDotNet.bundle.scp.css
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.csproj.CopyComplete
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.dll
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\refint\ProjectDotNet.dll
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.pdb
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.genruntimeconfig.cache
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ref\ProjectDotNet.dll
+C:\Users\Tony\Downloads\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Tony\Downloads\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\appsettings.json
+C:\Users\Tony\Downloads\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\ProjectDotNet.staticwebassets.runtime.json
+C:\Users\Tony\Downloads\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\ProjectDotNet.exe
+C:\Users\Tony\Downloads\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\ProjectDotNet.deps.json
+C:\Users\Tony\Downloads\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\ProjectDotNet.runtimeconfig.json
+C:\Users\Tony\Downloads\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\ProjectDotNet.dll
+C:\Users\Tony\Downloads\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\ProjectDotNet.pdb
+C:\Users\Tony\Downloads\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Tony\Downloads\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Tony\Downloads\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Tony\Downloads\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Tony\Downloads\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Tony\Downloads\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Tony\Downloads\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Tony\Downloads\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Tony\Downloads\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Tony\Downloads\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Tony\Downloads\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Tony\Downloads\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Tony\Downloads\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Tony\Downloads\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Tony\Downloads\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Tony\Downloads\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Tony\Downloads\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Tony\Downloads\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Tony\Downloads\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Tony\Downloads\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tony\Downloads\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Tony\Downloads\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Tony\Downloads\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Tony\Downloads\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Tony\Downloads\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tony\Downloads\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tony\Downloads\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tony\Downloads\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tony\Downloads\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Tony\Downloads\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Tony\Downloads\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Tony\Downloads\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Tony\Downloads\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tony\Downloads\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Tony\Downloads\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.csproj.AssemblyReference.cache
+C:\Users\Tony\Downloads\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tony\Downloads\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.AssemblyInfoInputs.cache
+C:\Users\Tony\Downloads\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.AssemblyInfo.cs
+C:\Users\Tony\Downloads\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.csproj.CoreCompileInputs.cache
+C:\Users\Tony\Downloads\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tony\Downloads\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.RazorAssemblyInfo.cache
+C:\Users\Tony\Downloads\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.RazorAssemblyInfo.cs
+C:\Users\Tony\Downloads\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets\msbuild.ProjectDotNet.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Tony\Downloads\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets\msbuild.build.ProjectDotNet.props
+C:\Users\Tony\Downloads\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProjectDotNet.props
+C:\Users\Tony\Downloads\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProjectDotNet.props
+C:\Users\Tony\Downloads\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Tony\Downloads\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Tony\Downloads\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Tony\Downloads\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Tony\Downloads\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\scopedcss\bundle\ProjectDotNet.styles.css
+C:\Users\Tony\Downloads\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\scopedcss\projectbundle\ProjectDotNet.bundle.scp.css
+C:\Users\Tony\Downloads\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.csproj.CopyComplete
+C:\Users\Tony\Downloads\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.dll
+C:\Users\Tony\Downloads\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\refint\ProjectDotNet.dll
+C:\Users\Tony\Downloads\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.pdb
+C:\Users\Tony\Downloads\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.genruntimeconfig.cache
+C:\Users\Tony\Downloads\ProjectDotNetv5 (With Login features no rating yet)\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ref\ProjectDotNet.dll
+C:\Users\jerem\source\repos\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\jerem\source\repos\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\appsettings.json
+C:\Users\jerem\source\repos\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\ProjectDotNet.staticwebassets.runtime.json
+C:\Users\jerem\source\repos\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\ProjectDotNet.exe
+C:\Users\jerem\source\repos\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\ProjectDotNet.deps.json
+C:\Users\jerem\source\repos\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\ProjectDotNet.runtimeconfig.json
+C:\Users\jerem\source\repos\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\ProjectDotNet.dll
+C:\Users\jerem\source\repos\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\ProjectDotNet.pdb
+C:\Users\jerem\source\repos\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\jerem\source\repos\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\jerem\source\repos\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jerem\source\repos\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\jerem\source\repos\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\jerem\source\repos\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\jerem\source\repos\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\jerem\source\repos\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jerem\source\repos\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\jerem\source\repos\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\jerem\source\repos\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\jerem\source\repos\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jerem\source\repos\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\jerem\source\repos\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jerem\source\repos\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\jerem\source\repos\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\jerem\source\repos\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jerem\source\repos\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\jerem\source\repos\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\jerem\source\repos\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jerem\source\repos\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\jerem\source\repos\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\jerem\source\repos\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\jerem\source\repos\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\jerem\source\repos\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jerem\source\repos\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jerem\source\repos\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jerem\source\repos\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jerem\source\repos\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jerem\source\repos\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\jerem\source\repos\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\jerem\source\repos\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\jerem\source\repos\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jerem\source\repos\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\jerem\source\repos\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.csproj.AssemblyReference.cache
+C:\Users\jerem\source\repos\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerem\source\repos\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.AssemblyInfoInputs.cache
+C:\Users\jerem\source\repos\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.AssemblyInfo.cs
+C:\Users\jerem\source\repos\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.csproj.CoreCompileInputs.cache
+C:\Users\jerem\source\repos\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jerem\source\repos\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.RazorAssemblyInfo.cache
+C:\Users\jerem\source\repos\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.RazorAssemblyInfo.cs
+C:\Users\jerem\source\repos\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets\msbuild.ProjectDotNet.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jerem\source\repos\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets\msbuild.build.ProjectDotNet.props
+C:\Users\jerem\source\repos\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProjectDotNet.props
+C:\Users\jerem\source\repos\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProjectDotNet.props
+C:\Users\jerem\source\repos\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\jerem\source\repos\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\jerem\source\repos\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\jerem\source\repos\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\jerem\source\repos\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\scopedcss\bundle\ProjectDotNet.styles.css
+C:\Users\jerem\source\repos\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\scopedcss\projectbundle\ProjectDotNet.bundle.scp.css
+C:\Users\jerem\source\repos\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.csproj.CopyComplete
+C:\Users\jerem\source\repos\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.dll
+C:\Users\jerem\source\repos\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\refint\ProjectDotNet.dll
+C:\Users\jerem\source\repos\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.pdb
+C:\Users\jerem\source\repos\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.genruntimeconfig.cache
+C:\Users\jerem\source\repos\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ref\ProjectDotNet.dll
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\appsettings.Development.json
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\appsettings.json
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\ProjectDotNet.staticwebassets.runtime.json
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\ProjectDotNet.exe
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\ProjectDotNet.deps.json
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\ProjectDotNet.runtimeconfig.json
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\ProjectDotNet.dll
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\ProjectDotNet.pdb
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Azure.Core.dll
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Azure.Identity.dll
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Memory.Data.dll
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.csproj.AssemblyReference.cache
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.GeneratedMSBuildEditorConfig.editorconfig
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.AssemblyInfoInputs.cache
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.AssemblyInfo.cs
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.csproj.CoreCompileInputs.cache
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.MvcApplicationPartsAssemblyInfo.cache
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.RazorAssemblyInfo.cache
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.RazorAssemblyInfo.cs
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets\msbuild.ProjectDotNet.Microsoft.AspNetCore.StaticWebAssets.props
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets\msbuild.build.ProjectDotNet.props
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProjectDotNet.props
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProjectDotNet.props
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets.pack.json
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets.build.json
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets.development.json
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\scopedcss\bundle\ProjectDotNet.styles.css
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\scopedcss\projectbundle\ProjectDotNet.bundle.scp.css
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.csproj.CopyComplete
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.dll
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\refint\ProjectDotNet.dll
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.pdb
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.genruntimeconfig.cache
+D:\NUS\Lectures\4102 C#\CA assignment\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ref\ProjectDotNet.dll
+C:\Users\Tony\Downloads\ProjectDotNetv8\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Tony\Downloads\ProjectDotNetv8\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\appsettings.json
+C:\Users\Tony\Downloads\ProjectDotNetv8\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\ProjectDotNet.staticwebassets.runtime.json
+C:\Users\Tony\Downloads\ProjectDotNetv8\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\ProjectDotNet.exe
+C:\Users\Tony\Downloads\ProjectDotNetv8\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\ProjectDotNet.deps.json
+C:\Users\Tony\Downloads\ProjectDotNetv8\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\ProjectDotNet.runtimeconfig.json
+C:\Users\Tony\Downloads\ProjectDotNetv8\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\ProjectDotNet.dll
+C:\Users\Tony\Downloads\ProjectDotNetv8\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\ProjectDotNet.pdb
+C:\Users\Tony\Downloads\ProjectDotNetv8\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Tony\Downloads\ProjectDotNetv8\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Tony\Downloads\ProjectDotNetv8\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Tony\Downloads\ProjectDotNetv8\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Tony\Downloads\ProjectDotNetv8\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Tony\Downloads\ProjectDotNetv8\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Tony\Downloads\ProjectDotNetv8\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Tony\Downloads\ProjectDotNetv8\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Tony\Downloads\ProjectDotNetv8\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Tony\Downloads\ProjectDotNetv8\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Tony\Downloads\ProjectDotNetv8\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Tony\Downloads\ProjectDotNetv8\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Tony\Downloads\ProjectDotNetv8\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Tony\Downloads\ProjectDotNetv8\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Tony\Downloads\ProjectDotNetv8\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Tony\Downloads\ProjectDotNetv8\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Tony\Downloads\ProjectDotNetv8\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Tony\Downloads\ProjectDotNetv8\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Tony\Downloads\ProjectDotNetv8\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Tony\Downloads\ProjectDotNetv8\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tony\Downloads\ProjectDotNetv8\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Tony\Downloads\ProjectDotNetv8\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Tony\Downloads\ProjectDotNetv8\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Tony\Downloads\ProjectDotNetv8\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Tony\Downloads\ProjectDotNetv8\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tony\Downloads\ProjectDotNetv8\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tony\Downloads\ProjectDotNetv8\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tony\Downloads\ProjectDotNetv8\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tony\Downloads\ProjectDotNetv8\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Tony\Downloads\ProjectDotNetv8\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Tony\Downloads\ProjectDotNetv8\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Tony\Downloads\ProjectDotNetv8\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Tony\Downloads\ProjectDotNetv8\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tony\Downloads\ProjectDotNetv8\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Tony\Downloads\ProjectDotNetv8\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.csproj.AssemblyReference.cache
+C:\Users\Tony\Downloads\ProjectDotNetv8\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tony\Downloads\ProjectDotNetv8\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.AssemblyInfoInputs.cache
+C:\Users\Tony\Downloads\ProjectDotNetv8\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.AssemblyInfo.cs
+C:\Users\Tony\Downloads\ProjectDotNetv8\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.csproj.CoreCompileInputs.cache
+C:\Users\Tony\Downloads\ProjectDotNetv8\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tony\Downloads\ProjectDotNetv8\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.RazorAssemblyInfo.cache
+C:\Users\Tony\Downloads\ProjectDotNetv8\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.RazorAssemblyInfo.cs
+C:\Users\Tony\Downloads\ProjectDotNetv8\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets\msbuild.ProjectDotNet.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Tony\Downloads\ProjectDotNetv8\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets\msbuild.build.ProjectDotNet.props
+C:\Users\Tony\Downloads\ProjectDotNetv8\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProjectDotNet.props
+C:\Users\Tony\Downloads\ProjectDotNetv8\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProjectDotNet.props
+C:\Users\Tony\Downloads\ProjectDotNetv8\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Tony\Downloads\ProjectDotNetv8\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Tony\Downloads\ProjectDotNetv8\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Tony\Downloads\ProjectDotNetv8\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Tony\Downloads\ProjectDotNetv8\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\scopedcss\bundle\ProjectDotNet.styles.css
+C:\Users\Tony\Downloads\ProjectDotNetv8\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\scopedcss\projectbundle\ProjectDotNet.bundle.scp.css
+C:\Users\Tony\Downloads\ProjectDotNetv8\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.csproj.CopyComplete
+C:\Users\Tony\Downloads\ProjectDotNetv8\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.dll
+C:\Users\Tony\Downloads\ProjectDotNetv8\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\refint\ProjectDotNet.dll
+C:\Users\Tony\Downloads\ProjectDotNetv8\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.pdb
+C:\Users\Tony\Downloads\ProjectDotNetv8\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.genruntimeconfig.cache
+C:\Users\Tony\Downloads\ProjectDotNetv8\ProjectDotNetv7\ProjectDotNetv6AfterCheckoutSaveinDB\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ref\ProjectDotNet.dll
+C:\Users\jerem\OneDrive\Desktop\ProjectDotNetv10 vTony\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\jerem\OneDrive\Desktop\ProjectDotNetv10 vTony\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\appsettings.json
+C:\Users\jerem\OneDrive\Desktop\ProjectDotNetv10 vTony\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\ProjectDotNet.staticwebassets.runtime.json
+C:\Users\jerem\OneDrive\Desktop\ProjectDotNetv10 vTony\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\ProjectDotNet.exe
+C:\Users\jerem\OneDrive\Desktop\ProjectDotNetv10 vTony\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\ProjectDotNet.deps.json
+C:\Users\jerem\OneDrive\Desktop\ProjectDotNetv10 vTony\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\ProjectDotNet.runtimeconfig.json
+C:\Users\jerem\OneDrive\Desktop\ProjectDotNetv10 vTony\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\ProjectDotNet.dll
+C:\Users\jerem\OneDrive\Desktop\ProjectDotNetv10 vTony\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\ProjectDotNet.pdb
+C:\Users\jerem\OneDrive\Desktop\ProjectDotNetv10 vTony\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\jerem\OneDrive\Desktop\ProjectDotNetv10 vTony\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\jerem\OneDrive\Desktop\ProjectDotNetv10 vTony\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jerem\OneDrive\Desktop\ProjectDotNetv10 vTony\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\jerem\OneDrive\Desktop\ProjectDotNetv10 vTony\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\jerem\OneDrive\Desktop\ProjectDotNetv10 vTony\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\jerem\OneDrive\Desktop\ProjectDotNetv10 vTony\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\jerem\OneDrive\Desktop\ProjectDotNetv10 vTony\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jerem\OneDrive\Desktop\ProjectDotNetv10 vTony\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\jerem\OneDrive\Desktop\ProjectDotNetv10 vTony\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\jerem\OneDrive\Desktop\ProjectDotNetv10 vTony\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\jerem\OneDrive\Desktop\ProjectDotNetv10 vTony\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jerem\OneDrive\Desktop\ProjectDotNetv10 vTony\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\jerem\OneDrive\Desktop\ProjectDotNetv10 vTony\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jerem\OneDrive\Desktop\ProjectDotNetv10 vTony\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\jerem\OneDrive\Desktop\ProjectDotNetv10 vTony\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\jerem\OneDrive\Desktop\ProjectDotNetv10 vTony\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jerem\OneDrive\Desktop\ProjectDotNetv10 vTony\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\jerem\OneDrive\Desktop\ProjectDotNetv10 vTony\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\jerem\OneDrive\Desktop\ProjectDotNetv10 vTony\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jerem\OneDrive\Desktop\ProjectDotNetv10 vTony\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\jerem\OneDrive\Desktop\ProjectDotNetv10 vTony\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\jerem\OneDrive\Desktop\ProjectDotNetv10 vTony\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\jerem\OneDrive\Desktop\ProjectDotNetv10 vTony\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\jerem\OneDrive\Desktop\ProjectDotNetv10 vTony\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jerem\OneDrive\Desktop\ProjectDotNetv10 vTony\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jerem\OneDrive\Desktop\ProjectDotNetv10 vTony\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jerem\OneDrive\Desktop\ProjectDotNetv10 vTony\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jerem\OneDrive\Desktop\ProjectDotNetv10 vTony\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jerem\OneDrive\Desktop\ProjectDotNetv10 vTony\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\jerem\OneDrive\Desktop\ProjectDotNetv10 vTony\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\jerem\OneDrive\Desktop\ProjectDotNetv10 vTony\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\jerem\OneDrive\Desktop\ProjectDotNetv10 vTony\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jerem\OneDrive\Desktop\ProjectDotNetv10 vTony\ProjectDotNet\ProjectDotNet\ProjectDotNet\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\jerem\OneDrive\Desktop\ProjectDotNetv10 vTony\ProjectDotNet\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.csproj.AssemblyReference.cache
+C:\Users\jerem\OneDrive\Desktop\ProjectDotNetv10 vTony\ProjectDotNet\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerem\OneDrive\Desktop\ProjectDotNetv10 vTony\ProjectDotNet\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.AssemblyInfoInputs.cache
+C:\Users\jerem\OneDrive\Desktop\ProjectDotNetv10 vTony\ProjectDotNet\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.AssemblyInfo.cs
+C:\Users\jerem\OneDrive\Desktop\ProjectDotNetv10 vTony\ProjectDotNet\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.csproj.CoreCompileInputs.cache
+C:\Users\jerem\OneDrive\Desktop\ProjectDotNetv10 vTony\ProjectDotNet\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jerem\OneDrive\Desktop\ProjectDotNetv10 vTony\ProjectDotNet\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.RazorAssemblyInfo.cache
+C:\Users\jerem\OneDrive\Desktop\ProjectDotNetv10 vTony\ProjectDotNet\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.RazorAssemblyInfo.cs
+C:\Users\jerem\OneDrive\Desktop\ProjectDotNetv10 vTony\ProjectDotNet\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets\msbuild.ProjectDotNet.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jerem\OneDrive\Desktop\ProjectDotNetv10 vTony\ProjectDotNet\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets\msbuild.build.ProjectDotNet.props
+C:\Users\jerem\OneDrive\Desktop\ProjectDotNetv10 vTony\ProjectDotNet\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProjectDotNet.props
+C:\Users\jerem\OneDrive\Desktop\ProjectDotNetv10 vTony\ProjectDotNet\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProjectDotNet.props
+C:\Users\jerem\OneDrive\Desktop\ProjectDotNetv10 vTony\ProjectDotNet\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\jerem\OneDrive\Desktop\ProjectDotNetv10 vTony\ProjectDotNet\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\jerem\OneDrive\Desktop\ProjectDotNetv10 vTony\ProjectDotNet\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\jerem\OneDrive\Desktop\ProjectDotNetv10 vTony\ProjectDotNet\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\jerem\OneDrive\Desktop\ProjectDotNetv10 vTony\ProjectDotNet\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\scopedcss\bundle\ProjectDotNet.styles.css
+C:\Users\jerem\OneDrive\Desktop\ProjectDotNetv10 vTony\ProjectDotNet\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\scopedcss\projectbundle\ProjectDotNet.bundle.scp.css
+C:\Users\jerem\OneDrive\Desktop\ProjectDotNetv10 vTony\ProjectDotNet\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.csproj.CopyComplete
+C:\Users\jerem\OneDrive\Desktop\ProjectDotNetv10 vTony\ProjectDotNet\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.dll
+C:\Users\jerem\OneDrive\Desktop\ProjectDotNetv10 vTony\ProjectDotNet\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\refint\ProjectDotNet.dll
+C:\Users\jerem\OneDrive\Desktop\ProjectDotNetv10 vTony\ProjectDotNet\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.pdb
+C:\Users\jerem\OneDrive\Desktop\ProjectDotNetv10 vTony\ProjectDotNet\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ProjectDotNet.genruntimeconfig.cache
+C:\Users\jerem\OneDrive\Desktop\ProjectDotNetv10 vTony\ProjectDotNet\ProjectDotNet\ProjectDotNet\obj\Debug\net6.0\ref\ProjectDotNet.dll

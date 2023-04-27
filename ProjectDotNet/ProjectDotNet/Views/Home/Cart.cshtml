@@ -1,0 +1,67 @@
+﻿@{
+    Dictionary<Product, int> productlist = ViewBag.Cart ?? new Dictionary<Product, int>();
+    var total = ViewBag.Total;
+    ViewBag.Title = "View Cart";
+}
+
+@section Scripts {
+    <script src="~/js/site.js"></script>
+
+}
+
+<link rel="stylesheet" href="/css/style.css">
+
+
+<head>
+    <title>@ViewBag.Title</title>
+</head>
+
+<input type="hidden" id="cart-page-flag" /> 
+
+
+
+<h3>
+    My Cart
+    <a href="/Home/Index">Continue Shopping</a> |
+    <a href="/Home/Checkout" id="checkout-btn">Checkout</a>
+
+</h3>
+<div style="text-align:right"> <h3>Total: <span id="sum">$@total</span></h3></div>
+<hr>
+
+<table class="table mx-auto">
+    @if (productlist != null && productlist.Count > 0)
+    {
+        @foreach (KeyValuePair<Product, int> kvp in productlist)
+        {
+            <tr class="purchase-history-tr">
+                <td class="purchase-history-td">
+                    <div class="purchase-container">
+                        <div class="card-in-history">
+                            <img src="@Url.Content(kvp.Key.ProductImgSrc)" class="view-history-img" />
+                            <h3>@kvp.Key.ProductName</h3>
+                            <p class="description">
+                                @kvp.Key.ProductDescription
+                            </p>
+                        </div>
+                    </div>
+                </td>
+                <td class="purchase-history-td">
+                    <div class="item-details">
+                        <p>Price: &nbsp <span class="price" id="@kvp.Key.ProductId-price">$@(kvp.Value * kvp.Key.ProductPrice)</span> </p>
+                        <p>
+                            Quantity:
+                            <input type="number" id="@kvp.Key.ProductId" class="order-amount" name="order-amount" min="1" step="1" value="@kvp.Value" />
+                        </p>
+                    </div>
+                </td>
+            </tr>
+        }
+    }
+    else
+    {
+        <tr>
+            <td colspan="2"><p>No items in cart</p></td>
+        </tr>
+    }
+</table>

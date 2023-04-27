@@ -1,0 +1,52 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    var c = ViewBag.Count;
+    ViewBag.Title = "Login";
+}
+
+@section Scripts {
+    <script src="~/js/site.js"></script>
+    
+}
+
+
+
+
+<link rel="stylesheet" href="/css/style.css">
+
+<head>
+    <title>@ViewBag.Title</title>
+</head> 
+
+<div class="login-container">
+    <div class="login-header">
+        <h2>Welcome to ShoppingFreeShipping.pte</h2>
+        <div style="height: 20px;"></div>
+        <h3>Good to see you again!</h3>
+    </div>
+    <div class="login-form-container">
+        <div class="container">
+            <form id="login-form" class="login-form" method="post" action="/Home/Login">
+                <table>
+                    <tr>
+                        <td>Username</td>
+                        <td><input type="text" name="username" id="username" /></td>
+                    </tr>
+                    <tr>
+                        <td>Password</td>
+                        <td><input type="password" name="password" id="password" /></td>
+                    </tr>
+                    <tr>
+                        <td>&nbsp;</td>
+                        <td style="text-align:right"><input type="submit" value="Login" /></td>
+                    </tr>
+                </table>
+            </form>
+        </div>
+    </div>
+</div>
+
+
+

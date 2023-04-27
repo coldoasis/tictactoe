@@ -1,0 +1,99 @@
+﻿@model Dictionary<int, List<ProjectDotNet.Models.Purchases>>
+
+
+
+@{
+    ViewBag.Title = "My Purchases";
+    var sortedPurchases = Model.Values
+    .SelectMany(purchases => purchases)
+    .OrderByDescending(purchase => purchase.PurchaseDate);
+
+    var sortedPurchasesDict = sortedPurchases
+        .GroupBy(purchase => purchase.ProductId)
+        .ToDictionary(group => group.Key, group => group.ToList());
+
+}
+
+@section Scripts {
+    <script src="~/js/site.js"></script>
+}
+
+<link rel="stylesheet" href="/css/style.css">
+
+<head>
+    <title>@ViewBag.Title</title>
+</head>
+
+<h1>My Purchase View</h1>
+
+<hr>
+
+<table class="table">
+    @foreach (var groupedPurchase in sortedPurchasesDict)
+    {
+        var firstPurchase = groupedPurchase.Value.First();
+        <tr class="purchase-history-tr">
+            <td class="purchase-history-td">
+                <div class="purchase-container">
+                    <div class="card-in-history">
+                        <img src="@Url.Content(firstPurchase.ProductImgSrc)" class="view-history-img" />
+                        <h3>@firstPurchase.ProductName</h3>
+                        <p class="description">
+                            @firstPurchase.ProductDescription
+                        </p>
+                        <p><button>Download</button></p>
+                    </div>
+                </div>
+            </td>
+            <td class="purchase-history-td">
+                <div class="item-details">
+                    <input type="hidden" id="customerId" value=@firstPurchase.CustomerId />
+                    <div class="purchase-rate" data-product-id=@firstPurchase.ProductId>
+                        @if (firstPurchase.ProductRating != 0)
+                        {
+                            <p style="color: red">You've done rating this product.</p>
+                        }
+                        else
+                        {
+                            for (int i = 5; i >= 1; i--)
+                            {
+                                var name = firstPurchase.ProductId + "_" + "star" + "_" + i;
+                                <input type="radio" id=@name value=@i class="star" data-star-id=@i />
+                                <label for=@name title="text" onchange="updateRating()">@i star</label>
+                            }
+                        }
+
+                    </div>
+                    <p>Purchased on:&nbsp <span id="hist-1-date">@firstPurchase.PurchaseDate.ToShortDateString()</span></p>
+                    <p>Quantity: &nbsp <span id="hist-1-qty">@groupedPurchase.Value.Count</span> </p>
+                    <p>
+                        Activation Code:&nbsp<span id="hist-1-activationcode">
+                            @if (groupedPurchase.Value.Count > 1)
+                            {
+                                <select>
+                                    @foreach (var purchase in groupedPurchase.Value)
+                                    {
+                                        <option value="@purchase.ActivationCode">@purchase.ActivationCode</option>
+                                    }
+                                </select>
+                            }
+                            else
+                            {
+                                @firstPurchase.ActivationCode
+                            }
+                        </span>
+                    </p>
+                </div>
+            </td>
+        </tr>
+    }
+</table>
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,86 @@
+﻿@{
+    var products = ViewBag.ProductList;
+    var name = ViewBag.Username;
+    var productRating = ViewBag.ProductRating;
+    var avg = -1;
+    var totalRating = 0;
+    ViewBag.Title = "Libraries Gallery";
+}
+
+<link rel="stylesheet" href="/css/style.css">
+
+@section Scripts {
+    <script src="~/js/site.js"></script>
+    
+}
+<head>
+    <title>@ViewBag.Title</title>
+</head>
+
+
+<!-- Display user's name if is logged in-->
+@if (ViewBag.IsLoggedIn == "true")
+{
+    <div class="user-info">
+        Hello, @name !
+
+    </div>
+}
+
+
+<div>
+    <div class="searchbar">
+        <form method="post" action="/Home/Index">
+            <input type="text" id="searchquery" , name="searchquery" placeholder="Enter your search here..." />
+        </form>
+    </div>
+    <div class="product-grid">
+        @foreach (var product in products)
+        {
+            <div class="product-box">
+                <img src="@Url.Content(product.ProductImgSrc)" />
+                <h3>@product.ProductName</h3>
+                <p>@product.ProductDescription</p>
+                @if (productRating.ContainsKey(product.ProductId))
+                {
+                    var productRate = productRating[product.ProductId];
+                    avg = productRate[0];
+                    totalRating = productRate[1];
+                }
+                else
+                {
+                    avg = -1;
+                    totalRating = 0;
+                }
+                <p>Ratings: @totalRating</p>
+                    <div class="rate">
+                    @for (int i = 5; i >= 1; i--)
+                    {
+                        var nameWithId = product.ProductId + "_" + "star" + i;
+                        if (avg != -1)
+                        {
+                            if (i <= avg)
+                            {
+                                 <input type="radio" id=@nameWithId value=@i checked="true" disabled/>
+                            }
+                            else
+                            {
+                                 <input type="radio" id=@nameWithId value=@i disabled/>
+
+                            }
+                            <label for=@nameWithId title="text">@i star</label>
+                        }
+                        else
+                        {
+                            <input type="radio" id=@nameWithId value=@i disabled/>
+                            <label for=@name title="text">@i star</label>
+                        }
+                    }
+                </div>
+                <div class="product-actions" style="margin-top: 10px;">
+                    <button class="AddCart btn btn-primary" id="@product.ProductId">$@product.ProductPrice | Add to Cart</button>
+                </div>
+            </div>
+        }
+    </div>
+</div>

@@ -1,0 +1,184 @@
+﻿* {
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 14px;
+}
+
+body {
+    background-color: beige;
+    min-height: 100vh;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+
+
+.form-inline {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.cartAmount, .cartimage {
+    text-align: center;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.cart {
+    display: inline-block;
+}
+
+.cartAmount {
+    background-color: yellow;
+    border-radius: 50%;
+}
+
+.cartimage {
+    height: auto;
+    width: 50%;
+}
+
+.leftnav {
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+.cardImages {
+    width: 100%;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    margin: 2px 2px 2px 2px;
+    width: 200px;
+    height: 400px;
+    text-align: center;
+}
+
+.price {
+    color: grey;
+    font-size: 22px;
+}
+
+.card button {
+    border: none;
+    outline: 0;
+    padding: 12px;
+    color: white;
+    background-color: lightblue;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+}
+
+.card h1 {
+    font-size: 12px;
+}
+
+.card p {
+    font-size: 10px;
+}
+
+.card img {
+    max-width: 100%;
+    max-height: 100px;
+}
+
+.card-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-auto-rows: auto;
+    grid-gap: 20px;
+}
+
+
+.footer {
+    position: relative !important;
+}
+
+
+.rate {
+    float: left;
+    height: 46px;
+    padding: 0 10px;
+    margin-left: 50px;
+}
+
+    .rate:not(:checked) > input {
+        position: absolute;
+        top: -9999px;
+    }
+
+    .rate:not(:checked) > label {
+        float: right;
+        width: 1em;
+        overflow: hidden;
+        white-space: nowrap;
+        cursor: pointer;
+        font-size: 30px;
+        color: #ccc;
+    }
+
+        .rate:not(:checked) > label:before {
+            content: '★ ';
+        }
+
+    .rate > input:checked ~ label {
+        color: #ffc700;
+    }
+
+.purchase-rate {
+    float: left;
+    height: 46px;
+    padding: 0 10px;
+    margin-left: 50px;
+}
+
+    .purchase-rate:not(:checked) > input {
+        position: absolute;
+        top: -9999px;
+    }
+
+    .purchase-rate:not(:checked) > label {
+        float: right;
+        width: 1em;
+        overflow: hidden;
+        white-space: nowrap;
+        cursor: pointer;
+        font-size: 30px;
+        color: #ccc;
+    }
+
+        .purchase-rate:not(:checked) > label:before {
+            content: '★ ';
+        }
+
+    .purchase-rate > input:checked ~ label {
+        color: #ffc700;
+    }
+
+    .purchase-rate:not(:checked) > label:hover,
+    .purchase-rate:not(:checked) > label:hover ~ label {
+        color: #deb217;
+    }
+
+    .purchase-rate > input:checked + label:hover,
+    .purchase-rate > input:checked + label:hover ~ label,
+    .purchase-rate > input:checked ~ label:hover,
+    .purchase-rate > input:checked ~ label:hover ~ label,
+    .purchase-rate > label:hover ~ input:checked ~ label {
+        color: #c59b08;
+    }

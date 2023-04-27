@@ -1,0 +1,198 @@
+﻿.login-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.login-header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+    .login-header h2 {
+        font-size: 28px;
+        font-weight: bold;
+        margin: 0;
+    }
+
+    .login-header h3 {
+        font-size: 18px;
+        font-weight: normal;
+        margin: 0;
+    }
+
+.login-form-container {
+    max-width: 400px;
+    padding: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.login-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+    .login-form td:first-child {
+        width: 80px;
+        text-align: right;
+        padding-right: 16px;
+    }
+
+    .login-form input[type="text"],
+    .login-form input[type="password"] {
+        padding: 8px;
+        border-radius: 4px;
+        border: 1px solid #ccc;
+        margin-bottom: 16px;
+        box-sizing: border-box;
+        width: 100%;
+    }
+
+    .login-form td:last-child {
+        text-align: right;
+    }
+
+.product-box {
+    width: 300px;
+    height: 430px; /* set a fixed height to make all boxes the same size */
+    border: 1px solid #ddd;
+    background-color: white;
+    padding: 10px;
+    text-align: center;
+    display: inline-block;
+    margin: 10px;
+    box-sizing: border-box; /* include padding and border in element's dimensions */
+    vertical-align: top; /* align boxes at the top of the line */
+}
+
+    .product-box img {
+        width: 200px; /* set a fixed width for the image */
+        height: 200px;
+        object-fit: contain; /* scale the image to fit the container */
+    }
+
+    .product-box h3,
+    .product-box p {
+        text-align: center; /* align product name and description to the center */
+        margin: 0; /* remove any margin */
+    }
+
+.product-grid {
+    padding: 10px; /* add some padding to make the grid look nicer */
+    margin-top: 20px;
+    display: flex; /* use flexbox to align the boxes */
+    flex-wrap: wrap; /* wrap the boxes to the next line if they don't fit */
+    justify-content: center; /* center the boxes horizontally */
+}
+
+.searchbar {
+    text-align: center;
+}
+
+    .searchbar input[type="text"] {
+        width: 100%;
+        max-width: 940px;
+    }
+
+
+
+.purchase-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 400px;
+    width: 300px;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    box-sizing: border-box;
+    text-align: center;
+    background-color: white;
+}
+
+    .purchase-container img {
+        max-width: 200px;
+        max-height: 200px;
+        margin-bottom: 10px;
+    }
+
+    .purchase-container h3 {
+        font-size: 18px;
+        margin-bottom: 10px;
+    }
+
+    .purchase-container p.description {
+        font-size: 14px;
+        margin-bottom: 20px;
+        height: 60px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+    .purchase-container button {
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        padding: 10px 20px;
+        font-size: 16px;
+        cursor: pointer;
+        margin-bottom: 20px;
+    }
+
+        .purchase-container button:hover {
+            background-color: #0062cc;
+        }
+
+    .purchase-container select {
+        margin-bottom: 20px;
+        padding: 5px;
+        font-size: 14px;
+    }
+
+        .purchase-container select option {
+            padding: 5px;
+            font-size: 14px;
+        }
+
+.item-details {
+    text-align: center;
+    margin-top: 150px
+}
+
+    .item-details p {
+        font-size: 14px;
+        margin: 0;
+    }
+
+    .item-details span {
+        font-weight: bold;
+    }
+
+hr {
+    border: none;
+    border-top: 1px solid #0062cc;
+    margin: 10px 0;
+}
+
+h3 a {
+    font-weight: normal;
+}
+.order-amount {
+    width: 45px;
+}
+
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+    opacity: 1;
+}
+
+.price {
+    color: black;
+    font-size: 18px;
+}
