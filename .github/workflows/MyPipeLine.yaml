@@ -6,15 +6,15 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Greetings
-      run: echo "Hello world"
-    - name: What is the time on the runner
-      run: date
-    - name: list first system
-      run: ls -l /
     - name: Cow say something
       uses: mscoutermarsh/cowsays-action@master
       with:
         text: ${{github.event.head_commit.message}}
         color: 'red'
+
+    - name: checkout the repo
+      uses: actions/checkout@v3
+
+    - name: List the files in our repo
+      run: ls -l
 
