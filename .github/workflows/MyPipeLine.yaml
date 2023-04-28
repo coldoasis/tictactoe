@@ -15,6 +15,6 @@ jobs:
     - name: Cow say something
       uses: mscoutermarsh/cowsays-action@master
       with:
-        text: ${{github.ref_name}}
+        text: ${{github.event.head_commit.message}}
         color: 'red'
 
