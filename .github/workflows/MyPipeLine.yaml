@@ -1,0 +1,13 @@
+name: my first workflow
+on: [push]
+
+jobs:
+  my_first_pipeline:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: 
+      run: echo "Hello world"
+    - name: What is the time on the runner
+      run: date
+
