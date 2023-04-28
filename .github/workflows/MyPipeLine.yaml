@@ -12,4 +12,9 @@ jobs:
       run: date
     - name: list first system
       run: ls -l /
+    - name: Cow say something
+      uses: mscoutermarsh/cowsays-action@master
+      with:
+        text: 'Hello, I am a cow'
+        color: 'red'
 
