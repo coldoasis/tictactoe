@@ -10,4 +10,6 @@ jobs:
       run: echo "Hello world"
     - name: What is the time on the runner
       run: date
+    - name: list first system
+      run: ls -l /
 
